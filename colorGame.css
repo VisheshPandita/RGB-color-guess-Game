@@ -1,0 +1,27 @@
+body{
+	background-color: #232323;
+}
+
+.square{
+	
+	width: 30%;
+	padding-bottom: 30%;
+	float: left;
+	margin: 1.66%;
+}
+
+#container{
+	max-width: 600px;
+
+	margin: 0 auto;
+
+}
+
+#head{
+	color: white;
+	text-align: center;
+}
+
+#message{
+	color: white;
+}
