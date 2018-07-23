@@ -31,7 +31,7 @@ for(var i=0; i<squares.length; i++){
 
 function changeColors(color){
 	//Loop through all the arrays
-	for(var j=0; j<=squares.length; j++){
+	for(var j=0; j<squares.length; j++){
 	//Change color of all the squares
 			squares[j].style.backgroundColor = color;
 	}
